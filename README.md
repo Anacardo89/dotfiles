@@ -28,7 +28,7 @@ Scripts are organized and loaded in order from the `~/.bashrc.d/` directory:
     ```bash
     ~/.dotfiles/install.sh
     ```
-This script will create necessary directories, symlink scripts to `~/.bashrc.d/`, and update your `~/.bashrc` to source them.
+   This script will create necessary directories, symlink scripts to `~/.bashrc.d/`, and update your `~/.bashrc` to source them.
 
 3. Open a new terminal or run `source ~/.bashrc` to apply changes.
 
